@@ -24,6 +24,7 @@ This repository contains my academic CV, designed using LaTeX for a clean and pr
 
 - 📫 Email: oembye@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/omar-mbye](https://www.linkedin.com/in/omar-mbye)
+- Uploaded README with full CV
 
 ---
 
