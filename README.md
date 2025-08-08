@@ -25,7 +25,6 @@ This repository contains my academic CV, designed using LaTeX for a clean and pr
 - 📫 Email: oembye@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/omar-mbye](https://www.linkedin.com/in/omar-mbye)
 
-Updated README with full CV details
 ---
 
 Feel free to explore, fork, or reach out if you’d like to collaborate on data-driven policy research or economic modeling in Sub-Saharan Africa.
